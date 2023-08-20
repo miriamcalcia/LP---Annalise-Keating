@@ -23,7 +23,7 @@ body{
 }
 .cabecalho-menu-link{
     font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 600;
     color: #03071e;
     text-decoration: none;
@@ -35,7 +35,7 @@ body{
 }
 
 .apresentacao {
-    margin: 10% 15%;
+    margin: 5% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -85,8 +85,10 @@ body{
     padding: 24px;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 400;
 }
+
+
 
 
