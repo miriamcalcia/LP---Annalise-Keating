@@ -12,6 +12,24 @@ body{
     color: #F6F6F6;
 }
 
+
+.cabecalho{
+    padding: 2% 2% 2% 15%;
+    background-color: #f4e3e3;
+}
+.cabecalho-menu{
+    display: flex;
+    gap: 80px;
+}
+.cabecalho-menu-link{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: #03071e;
+    text-decoration: none;
+}
+
+
 .titulo-destaque{
     color: #d00000;
 }
@@ -36,6 +54,7 @@ body{
 .apresentacao-conteudo-subtitulo{
     margin: 15px;
     font-family: 'Libre Franklin', sans-serif;
+    color: #db7c26;
 }
 
 .apresentacao-texto{
@@ -60,5 +79,14 @@ font-family: 'Montserrat', sans-serif;
     font-family: 'Montserrat', sans-serif;
 }
 
+.rodape{
+    color: black ;
+    background-color: #f4e3e3;
+    padding: 24px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
 
 
