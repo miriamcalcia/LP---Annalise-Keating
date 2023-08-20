@@ -15,7 +15,7 @@ body{
 
 .cabecalho{
     padding: 2% 2% 2% 15%;
-    background-color: #f4e3e3;
+    background-color: #c9ada7;
 }
 .cabecalho-menu{
     display: flex;
@@ -81,11 +81,11 @@ font-family: 'Montserrat', sans-serif;
 
 .rodape{
     color: black ;
-    background-color: #f4e3e3;
+    background-color: #c9ada7;
     padding: 24px;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
-    font-size: 24px;
+    font-size: 15px;
     font-weight: 400;
 }
 
