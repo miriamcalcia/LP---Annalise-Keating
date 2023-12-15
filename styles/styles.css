@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat&display=swap');
 
+:root {
+    --cor-primaria: #000000;
+    --cor-secundaria: #F6F6F6;
+    --cor-terciaria: #22D4FD;
+    --cor-hover: #272727;
+    --fonte-primaria: 'Krona One', sans-serif;
+    --fonte-secundaria: 'Montserrat', sans-serif;
+}
+
+
 *{
     margin: 0;
     padding: 0;
@@ -11,7 +21,6 @@ body{
     background-color: #03071e;
     color: #F6F6F6;
 }
-
 
 .cabecalho{
     padding: 2% 2% 2% 15%;
@@ -29,7 +38,6 @@ body{
     text-decoration: none;
 }
 
-
 .titulo-destaque{
     color: #d00000;
 }
@@ -43,6 +51,8 @@ body{
 
 .apresentacao-conteudo{
     width: 615px;
+    margin-top: 20px;
+    margin-left: 25px;;
 
 }
 
@@ -64,7 +74,7 @@ body{
 }
 
 .botao-agende-consulta{
-    margin: 20px;
+    margin: 30px;
     display: flex;
     justify-content: space-between;
     background-color: #ffba08;
